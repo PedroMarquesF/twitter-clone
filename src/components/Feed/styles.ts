@@ -22,9 +22,7 @@ interface Props {
 }
 
 export const Tab =
-	styled.div <
-	Props >
-	`
+	styled.div <Props >`
 	font-weight: bold;
 	font-size: 15px;
 	color: var(--gray);

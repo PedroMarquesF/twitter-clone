@@ -37,7 +37,7 @@ export const SearchInput = styled.input`
 	font-size: 14px;
 	line-height: 16px;
 
-	border-radius: 100px; /*hmmmm qualquer valor que tu colocar aqui vai ficar de meso jeito desde que seja grande o suficiente*/
+	border-radius: 100px; /*hmmmm qualquer valor que tu colocar aqui vai ficar de mesmo jeito desde que seja grande o suficiente*/
 	background-color: var(--search);
 
 	&:focus {
@@ -53,5 +53,3 @@ export const Recomendations = styled.div`
 	top: 100px;
 	height: 10px;
 `;
-
-export const News = styled.div``;
